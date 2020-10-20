@@ -3,7 +3,9 @@ DCT and DFT applied to image
 
 # Requirements
 python3
+
 Opencv-python
+
 numpy
 
 # Question_1
