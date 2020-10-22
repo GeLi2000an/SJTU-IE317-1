@@ -25,4 +25,7 @@ you can also change method by typing `-method="DCT"`and change theme by typing `
 exchange magnitude and phase of two different images
 
     cd question_3
-    python test.py
+    python test_people_theme.py
+or
+    
+    python test_road_theme.py
